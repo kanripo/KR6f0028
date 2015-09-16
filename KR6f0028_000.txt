@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 須摩提經
+#+DATE: 2015-08-30 20:01:18.064575
+#+PROPERTY: JUAN 0
